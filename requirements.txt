@@ -6,3 +6,5 @@ scikit-learn
 matplotlib
 pyinstaller
 sqlite3
+os
+time
