@@ -139,7 +139,22 @@ python app.py
 
 # 📸 Screenshots
 
-(Add screenshots here later)
+Main Dashboard
+![image alt](https://github.com/Rishi-0040/Smart-USB-Forensics-Tool/blob/a31c961c8a3a8c1787e594818b4ccd7f20761828/Main%20Dashboared.png)
+
+
+Live Monitoring Demo
+![image alt](https://github.com/Rishi-0040/Smart-USB-Forensics-Tool/blob/e67ed149dd2bf4830c84620fc5ea44df0acb9cbe/live%20monitoring%20demo.png)
+
+Threat Intelligence Dashboard
+![image alt](https://github.com/Rishi-0040/Smart-USB-Forensics-Tool/blob/1db77d8b6c263ddeeb898f67a2adeead5829c8eb/Threat%20intelligence%20dashboard.png)
+
+PDF Report Demo
+![image alt](https://github.com/Rishi-0040/Smart-USB-Forensics-Tool/blob/01d9576b4b6d613f2a431c65eb063ea27e6c7c5a/pdf%20report%20demo.png)
+
+JSON File Demo
+![image alt](https://github.com/Rishi-0040/Smart-USB-Forensics-Tool/blob/42151aa40a5e657e5da0dc4b4ca3c443b093e0e3/Json%20file%20demo.png)
+
 
 ---
 
