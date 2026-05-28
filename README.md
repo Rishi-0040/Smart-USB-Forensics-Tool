@@ -106,7 +106,7 @@ Smart-USB-Forensics-Tool/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Smart-USB-Forensics-Tool.git
+git clone https://github.com/Rishi-0040/Smart-USB-Forensics-Tool
 ```
 
 ---
