@@ -1,1 +1,8 @@
+watchdog
+pyqt5
+flask
+flask-login
+scikit-learn
+matplotlib
+pyinstaller
 
